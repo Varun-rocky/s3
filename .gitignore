@@ -1,0 +1,9 @@
+# Node modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# PDF files to ignore
+docstore.pdf
+test.pdf
